@@ -2,4 +2,25 @@ INSERT INTO test.product_table (price, quantity, sku, title_x)
 VALUES
 (13.4, 4, 'parle735', 'Parle Biscuit'),
 (15.4, 1, 'pepsi124', 'Pepsi'),
-(17.4, 3, 'pepsi157', 'Mazza');
+(17.4, 3, 'pepsi157', 'Mazza'),
+(25.0, 2, 'lays456', 'Lays Classic'),
+(30.0, 5, 'kitkat789', 'KitKat'),
+(45.5, 7, 'oreo001', 'Oreo Cookies'),
+(20.0, 3, 'coke234', 'Coca Cola'),
+(60.0, 2, 'fanta567', 'Fanta'),
+(35.0, 1, 'sprite890', 'Sprite'),
+(50.5, 6, 'thumsup345', 'Thums Up'),
+(25.0, 4, 'britannia223', 'Britannia Bread'),
+(12.5, 8, 'amul789', 'Amul Butter'),
+(40.0, 2, 'cadbury123', 'Cadbury Dairy Milk'),
+(55.0, 3, 'nestle456', 'Nestle Milkybar'),
+(70.0, 9, 'maggi789', 'Maggi Noodles'),
+(85.5, 1, 'kitkat111', 'KitKat Dark'),
+(90.0, 4, 'lays222', 'Lays Sour Cream'),
+(15.0, 10, 'kurkure333', 'Kurkure'),
+(65.0, 2, 'sunfeast444', 'Sunfeast Cookies'),
+(30.0, 5, 'perk555', 'Perk Chocolate'),
+(100.0, 3, 'milkyway666', 'Milky Way Bar'),
+(45.0, 7, 'twix777', 'Twix'),
+(110.0, 1, 'munch888', 'Munch')
+;
